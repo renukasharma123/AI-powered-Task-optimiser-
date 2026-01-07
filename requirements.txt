@@ -1,0 +1,8 @@
+streamlit
+transformers
+torch
+textblob
+opencv-python
+librosa
+numpy
+scikit-learn
